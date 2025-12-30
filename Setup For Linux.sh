@@ -1,4 +1,4 @@
-echo "\e[34mWelcome to the setup script!\e[0m"
+echo "Welcome to the setup script!
 echo "Updating and upgrading the system..."
 sudo apt update && sudo apt upgrade
 echo "System updated and upgraded."
