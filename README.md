@@ -28,6 +28,7 @@ This project was developed using the following technologies and libraries:
 - **Languages:**
     - Kotlin (Primary application logic)
     - C/C++ (For core functionalities or performance-critical tasks)
+    - Shell Script (To automate a process)
 - **Architecture:** MVVM (Model-View-ViewModel)
 - **UI Toolkit:** Jetpack Compose for a modern, declarative user interface.
 - **Asynchrony:** Kotlin Coroutines for managing background tasks.
