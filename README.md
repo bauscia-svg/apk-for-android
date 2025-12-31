@@ -20,16 +20,20 @@ If you would like to contribute to this project, follow these steps:
 4. Report errors.
 5. If you want to add a new enhancement or feature, create a branch.
 6. Submit a pull request: Once your changes are ready, submit a pull request to the main repository for review.
+
 ## 🛠️ Technologies and Libraries
 
 This project was developed using the following technologies and libraries:
 
-- Language: Kotlin
-- Architecture: MVVM (Model-View-ViewModel)
-- UI Toolkit: Jetpack Compose for a modern, declarative user interface.
-- Asynchrony: Kotlin Coroutines for managing background tasks.
-- Dependency Injection: Hilt for dependency management.
-- Networking: Retrofit and OkHttp for REST API calls.
+- **Languages:**
+    - Kotlin (Primary application logic)
+    - C/C++ (For core functionalities or performance-critical tasks)
+    - Shell Script (To automate a process)
+- **Architecture:** MVVM (Model-View-ViewModel)
+- **UI Toolkit:** Jetpack Compose for a modern, declarative user interface.
+- **Asynchrony:** Kotlin Coroutines for managing background tasks.
+- **Dependency Injection:** Hilt for dependency management.
+- **Networking:** Retrofit and OkHttp for REST API calls.
 - **JSON Serialization:** Gson / Kotlinx.serialization.
 - **Local Database:** Room for offline data persistence.
 - **Navigation:** Navigation Compose for managing screen navigation.
