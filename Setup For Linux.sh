@@ -1,5 +1,9 @@
-echo "Welcome to the setup script!
-echo "Updating and upgrading the system..."
+
+echo "##################################"
+echo "#  Welcome to the setup script!  #"
+echo "##################################"
+
+echo "# Updating and upgrading the system..."
 sudo apt update && sudo apt upgrade
 echo "System updated and upgraded."
 echo "Installing essential software..."
@@ -62,8 +66,8 @@ echo "Enjoy your development environment!"
 echo "Goodbye!"
 
 
-echo -e "\e[1mTesto in grassetto e più grande\e[0m"
-echo -e "\e[34mTesto blu\e[0m" # Codice 34 per il blu
-echo -e "\e[32mTesto verde\e[0m" # Codice 32 per il verde
-echo -e "\e[31mTesto rosso\e[0m" # Codice 31 per il rosso
-echo -e "\e[33mTesto giallo\e[0m" # Codice 33 per il giallo
+# echo -e "\e[1mText in bold e più grande\e[0m" Code for bold and big
+# echo -e "\e[34mText blue\e[0m" Code 34 for the blue
+# echo -e "\e[32mText green\e[0m" Code 32 for the green
+# echo -e "\e[31mText red\e[0m" Code 31 for the red
+# echo -e "\e[33mTesto yellow\e[0m" # Code 33 for the yellow
